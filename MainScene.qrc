@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Coin.png</file>
+        <file>resource/background.jpg</file>
+        <file>resource/start.png</file>
+        <file>resource/back.png</file>
+        <file>resource/level.png</file>
+        <file>resource/coinback.png</file>
+        <file>resource/CoinAni.png</file>
+        <file>resource/Win.png</file>
+        <file>resource/btnSound.wav</file>
+        <file>resource/coinFlip.mp3</file>
+    </qresource>
+</RCC>
